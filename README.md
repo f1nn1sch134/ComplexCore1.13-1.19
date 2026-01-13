@@ -3,7 +3,9 @@ ComplexCore is a powerful and continuously evolving Minecraft core plugin design
 
 The plugin is actively maintained and regularly improved with new features, optimizations, and bug fixes.
 
-Version: Minecraft Java Bukkit, Spigot, Paper 1.13 - 1.19
+Plugin version: 1.0.0
+
+Minecraft server: Minecraft Java Bukkit, Spigot, Paper 1.13 - 1.19
 
 Requirements:
 This plugin requires PPLoader version 1.2.0 to run. In addition, Plugin Jython must be installed in the server’s /lib directory.
