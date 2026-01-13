@@ -18,4 +18,6 @@ Minecraft server: Minecraft Java Bukkit, Spigot, Paper 1.13 - 1.19
 Requirements:
 This plugin requires PPLoader version 1.2.0 to run. In addition, Plugin Jython must be installed in the server’s /lib directory.
 
+If you want to test the plugin, you can also do so on the Minecraft Java server "mycraft.fritzkasten.de:25571"
+
 If you encounter issues, have suggestions, or would like to request improvements, please contact our support team. Feedback is always welcome and helps shape future development.
