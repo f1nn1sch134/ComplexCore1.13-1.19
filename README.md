@@ -4,6 +4,7 @@ ComplexCore is a powerful and continuously evolving Minecraft core plugin design
 The plugin is actively maintained and regularly improved with new features, optimizations, and bug fixes.
 
 General plugin version: 1.2.0 (Here you can quickly see if the plugin has been updated)
+
 Individual plugin version: 
 Complex-Core = 1.2.0 (Provides a "Hello World" message in the log when the server starts)
 
