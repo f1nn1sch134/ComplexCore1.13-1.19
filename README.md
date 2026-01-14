@@ -3,10 +3,11 @@ ComplexCore is a powerful and continuously evolving Minecraft core plugin design
 
 The plugin is actively maintained and regularly improved with new features, optimizations, and bug fixes.
 
-General plugin version: 1.2.1 (Here you can quickly see if the plugin has been updated)
+General plugin version: 1.2.2 (Here you can quickly see if the plugin has been updated)
 
-Individual plugin version: 
-Complex-Core = 1.2.1 (Provides a "Hello World" message in the log when the server starts)
+Individual plugin version:
+
+Complex-Core = 1.2.2 (Provides a "Hello World" message in the log when the server starts)
 
 Changelog:
 
@@ -17,6 +18,8 @@ Changelog:
 1.2.0 ("api-version" added to the plugin.yml)
 
 1.2.1 (Bug fixes)
+
+1.2.2 (Bug fixes)
 
 Minecraft server: Minecraft Java Bukkit, Spigot, Paper 1.13 - 1.19
 
