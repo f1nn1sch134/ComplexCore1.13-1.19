@@ -9,9 +9,13 @@ Individual plugin version:
 Complex-Core = 1.2.1 (Provides a "Hello World" message in the log when the server starts)
 
 Changelog:
+
 1.0.0 (Provides a "Hello World" message in the log when the server starts)
+
 1.1.0 (Bug fixes)
+
 1.2.0 ("api-version" added to the plugin.yml)
+
 1.2.1 (Bug fixes)
 
 Minecraft server: Minecraft Java Bukkit, Spigot, Paper 1.13 - 1.19
