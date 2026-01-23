@@ -1,5 +1,7 @@
 # ComplexCore
 
+## Attention: This plugin is currently only being updated on Modrinth!
+
 For more versions, please visit: https://github.com/f1nn1sch134/ComplexCore
 
 ComplexCore is a powerful and continuously evolving Minecraft core plugin designed to provide advanced functionality and a flexible foundation for complex systems and plugins.
